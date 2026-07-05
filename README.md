@@ -2,7 +2,7 @@
 # TinDev From Can Tho - Vietnam
 
 <a href="#" target="_blank">
-  <img src="svg/tindev.html" width="1200" alt="tindev" />
+  <img src="svg/tindev.svg" width="1200" alt="tindev" />
 </a>
 
 <h2 align="center">🛠 Technologies and Tools 🛠</h2>
