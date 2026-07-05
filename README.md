@@ -5,7 +5,7 @@
   <img src="svg/tindev.svg" width="1200" alt="tindev" />
 </a>
 
-<h2 align="center">🛠 Technologies and Tools 🛠</h2>
+<h2 align="center"> Technologies and Tools </h2>
 <br>
 <!-- https://simpleicons.org/ -->
 <span><img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" /></span>
@@ -51,29 +51,23 @@
 
 
 <br>
-<h2 align="center">💼 Contact Me 💼</h2>
+<h2 align="center"> Contact Me </h2>
 <br>
 <!-- https://icons8.com -->
 <div align="center">
-  <a href="https://facebook.com/thangledev" target="blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="thangledev facebook" />
+  <a href="https://facebook.com/TinDevTools" target="blank">
+    <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="tindev facebook" />
   </a>
-  <a href="https://www.youtube.com/@thangledev" target="blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/youtube-squared.png" alt="thangledev youtube" />
+  <a href="https://www.youtube.com/@Tin-devtools" target="blank">
+    <img src="https://img.icons8.com/bubbles/100/000000/youtube-squared.png" alt="tindev youtube" />
   </a>
-  <a href="#" target="blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/linkedin.png" alt="thangledev linkedin" />
-  </a>
-  <a href="#" target="blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/instagram.png" alt="thangledev instagram" />
-  </a>
-  <a href="mailto:dichvu.thangle@gmail.com" target="top">
-    <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" alt="thangledev email" />
+  <a href="mailto:nguyenlamkhanhloc688@gmail.com" target="top">
+    <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" alt="tindev email" />
   </a>
 </div>
 <br>
-<h2 align="center">📑 My Favorites Quote 📑</h2>
+<h2 align="center"> My Favorites Quote </h2>
 <br>
 <a href="#" target="_blank">
-  <img src="svg/thangle-quotes.svg" width="846" height="150" alt="thangledev" />
+  <img src="svg/tindev-quotes.svg" width="846" height="150" alt="thangledev" />
 </a>
